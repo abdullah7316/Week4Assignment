@@ -1,0 +1,28 @@
+/* CSS styles */
+body{
+  color: yellow;
+  background-color: black;
+  font-size: 17px;
+}
+.head1 {
+  color: white;
+  text-align: center;
+}
+.hello {
+  color: green;
+  font-size: 22px;
+}
+
+.goodbye {
+  color: orange;
+  font-size: 22px;
+}
+
+.input-container {
+  margin-bottom: 22px;
+  font-size: 19px;
+}
+
+#greetings-container {
+  margin-top: 22px;
+}
